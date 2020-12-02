@@ -1,8 +1,7 @@
 # (Some) [Advent of Code 2020](https://adventofcode.com/2020/) solutions!
 
 Completed in:
-- [Crystal](https://crystal-lang.org)
-
+- [Crystal](https://crystal-lang.org/)
 ----
 
 ## Solution Index
@@ -12,4 +11,10 @@ Completed in:
 > Crystal
 > - [Part 1](./day1/day1-part1.cr)
 > - [Part 2](./day1/day1-part2.cr)
+
+### [Day 2](https://adventofcode.com/2020/day/2)
+
+> Crystal
+> - [Part 1](./day2/day2-part1.cr)
+> - [Part 2](./day2/day2-part2.cr)
 
