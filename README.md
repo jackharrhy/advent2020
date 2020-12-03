@@ -18,3 +18,8 @@ Completed in:
 > - [Part 1](./day2/day2-part1.cr)
 > - [Part 2](./day2/day2-part2.cr)
 
+### [Day 3](https://adventofcode.com/2020/day/3)
+
+> Crystal
+> - [Part 1](./day3/day3-part1.cr)
+

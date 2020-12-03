@@ -1,9 +1,8 @@
 record Lang, name : String, site : String
 
 langs = {
-  ".cr" => Lang.new("Crystal", "https://crystal-lang.org/")
+  ".cr" => Lang.new("Crystal", "https://crystal-lang.org/"),
 }
-
 
 puts <<-MARKDOWN
 # (Some) [Advent of Code 2020](https://adventofcode.com/2020/) solutions!
