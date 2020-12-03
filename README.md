@@ -21,5 +21,6 @@ Completed in:
 ### [Day 3](https://adventofcode.com/2020/day/3)
 
 > Crystal
+> - [Part 2](./day3/day3-part2.cr)
 > - [Part 1](./day3/day3-part1.cr)
 
