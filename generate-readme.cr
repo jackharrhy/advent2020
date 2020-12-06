@@ -2,6 +2,7 @@ record Lang, name : String, site : String
 
 langs = {
   ".cr" => Lang.new("Crystal", "https://crystal-lang.org/"),
+  ".p6" => Lang.new("Ragu", "https://raku.org"),
 }
 
 puts <<-MARKDOWN

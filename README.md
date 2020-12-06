@@ -2,6 +2,7 @@
 
 Completed in:
 - [Crystal](https://crystal-lang.org/)
+- [Ragu](https://raku.org)
 ----
 
 ## Solution Index
@@ -11,6 +12,9 @@ Completed in:
 > Crystal
 > - [Part 1](./day1/day1-part1.cr)
 > - [Part 2](./day1/day1-part2.cr)
+
+> Ragu
+> - [Part 1](./day1/day1-part1.p6)
 
 ### [Day 2](https://adventofcode.com/2020/day/2)
 
