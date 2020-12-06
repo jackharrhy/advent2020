@@ -20,7 +20,7 @@ puts <<-MARKDOWN
 ## Solution Index\n\n
 MARKDOWN
 
-Dir.glob("./day*").reverse.each do |day|
+Dir.glob("./day*").sort.each do |day|
   pre, post = day.split("day")
 
   puts "### [Day #{post}](https://adventofcode.com/2020/day/#{post})\n\n"
@@ -29,7 +29,7 @@ Dir.glob("./day*").reverse.each do |day|
     lang_files = Dir.glob("#{day}/*#{extension}")
     next if lang_files.size == 0
     puts "> #{lang.name}"
-    lang_files.each do |file|
+    lang_files.sort.each do |file|
       path = Path[file]
       part = path.basename.split("part")[1].chomp(extension)
       puts "> - [Part #{part}](#{file})"
