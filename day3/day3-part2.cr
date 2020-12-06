@@ -11,11 +11,11 @@ max_y = map.size - 1
 
 cases = Array(Array(Int32)).new
 
-cases << [1,1]
-cases << [3,1]
-cases << [5,1]
-cases << [7,1]
-cases << [1,2]
+cases << [1, 1]
+cases << [3, 1]
+cases << [5, 1]
+cases << [7, 1]
+cases << [1, 2]
 
 trees_hit_in_each_case = [] of Int64
 

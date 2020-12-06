@@ -13,11 +13,11 @@ max_y = map.size - 1
 
 cases = Array(Array(Int32)).new
 
-cases << [1,1]
-cases << [3,1]
-cases << [5,1]
-cases << [7,1]
-cases << [1,2]
+cases << [1, 1]
+cases << [3, 1]
+cases << [5, 1]
+cases << [7, 1]
+cases << [1, 2]
 
 trees_hit_in_each_case = [] of Int64
 
@@ -37,12 +37,12 @@ cases.each do |c|
 
   while pos_y <= max_y
     if pos_x >= max_x
-      pos_x -= max_x 
+      pos_x -= max_x
       current_drawing = drawing.clone
     end
 
     if map[pos_y][pos_x] == TREE
-      hit_trees += 1 
+      hit_trees += 1
       current_drawing[pos_y] = drawing[pos_y].sub(pos_x, "X")
     else
       current_drawing[pos_y] = drawing[pos_y].sub(pos_x, "O")
