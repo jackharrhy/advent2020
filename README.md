@@ -15,6 +15,7 @@ Completed in:
 
 > Ragu
 > - [Part 1](./day1/day1-part1.p6)
+> - [Part 2](./day1/day1-part2.p6)
 
 ### [Day 2](https://adventofcode.com/2020/day/2)
 
@@ -46,4 +47,10 @@ Completed in:
 > Crystal
 > - [Part 1](./day6/day6-part1.cr)
 > - [Part 2](./day6/day6-part2.cr)
+
+### [Day 7](https://adventofcode.com/2020/day/7)
+
+> Crystal
+> - [Part 1](./day7/day7-part1.cr)
+> - [Part 2](./day7/day7-part2.cr)
 
