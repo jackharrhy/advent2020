@@ -54,3 +54,9 @@ Completed in:
 > - [Part 1](./day7/day7-part1.cr)
 > - [Part 2](./day7/day7-part2.cr)
 
+### [Day 8](https://adventofcode.com/2020/day/8)
+
+> Crystal
+> - [Part 1](./day8/day8-part1.cr)
+> - [Part 2](./day8/day8-part2.cr)
+
