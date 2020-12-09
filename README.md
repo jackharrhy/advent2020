@@ -64,4 +64,5 @@ Completed in:
 
 > Crystal
 > - [Part 1](./day9/day9-part1.cr)
+> - [Part 2](./day9/day9-part2.cr)
 
