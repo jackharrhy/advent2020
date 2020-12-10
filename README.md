@@ -17,6 +17,12 @@ Completed in:
 > - [Part 1](./day1/day1-part1.p6)
 > - [Part 2](./day1/day1-part2.p6)
 
+### [Day 10](https://adventofcode.com/2020/day/10)
+
+> Crystal
+> - [Part 1](./day10/day10-part1.cr)
+> - [Part 2](./day10/day10-part2.cr)
+
 ### [Day 2](https://adventofcode.com/2020/day/2)
 
 > Crystal
